@@ -23,3 +23,6 @@ Pregunta 4:
 
 		-Utiliza una metodologia, o un metodo que le permite tener una vision para lograr  un objetivo, es decir un mecanismo de control que permite comprar resultados
 		Y ve cumplir sus objetivos
+
+Pregunta 5 : 
+		Las graficas y dashboard que permiten ver la informacion de ventas y inversiones, tiempo, etc, estas nos permiten ver una comparativa para tomar decisiones 
