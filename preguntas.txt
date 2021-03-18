@@ -1,3 +1,13 @@
 
 Respuesta 1: Es un conjunto de cosas o elementos que se relacionan
 entre si para lograr un objetivo o fin determinado
+
+Pregunta 2: 
+		sistemas cerrados:
+			-la bateria de un auto
+			-Termometro
+			-Un envase de comida caliente empaquetada
+		sistemas abiertos
+		-El cuerpo Humano
+		-Un motor de combustion
+		-Los saunas
