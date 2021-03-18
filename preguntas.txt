@@ -26,3 +26,7 @@ Pregunta 4:
 
 Pregunta 5 : 
 		Las graficas y dashboard que permiten ver la informacion de ventas y inversiones, tiempo, etc, estas nos permiten ver una comparativa para tomar decisiones 
+
+
+pregunta 6:
+		-Por que es  mas sistematico y productivo utilizar un sistema informatico, ahorra tiempo y existen la copia de seguridad 
